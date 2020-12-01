@@ -1,0 +1,7 @@
+{
+  "name": "cfm-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
